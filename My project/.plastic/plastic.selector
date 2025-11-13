@@ -1,0 +1,4 @@
+repository "BOTTEGA/My project@2475903349698@cloud"
+  path "/"
+    br "/main"
+    co "/main"
