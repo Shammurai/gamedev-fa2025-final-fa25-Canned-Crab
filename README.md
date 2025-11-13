@@ -1,35 +1,32 @@
-# Bottega - Apprentice's Journey
+# Bottega
 **Team Canned Crab | GameDev - Fall 2025**
 
 Play as an artist's apprentice in Renaissance Italy who has been delegated to handling menial household chores. Complete your tasks quickly and efficiently to prove to your master that you can take on higher-level artistic work and eventually complete your apprenticeship.
 
 ## Authors
-* Herbert Steet (Communication Arts) - hsteet@vcu.edu
-* Alexia Slate (Communication Arts) - aslate@vcu.edu
-* Tyler Ricks (Computer Science) - tricks@vcu.edu
-* Jacob Stephens (Computer Science) - jstephens@vcu.edu
+* Herbert Steet (Communication Arts) - steeth@vcu.edu
+* Alexia Slate (Communication Arts) - slateat@vcu.edu
+* Tyler Ricks (Computer Science) - rickstd@vcu.edu
+* Jacob Stephens (Computer Science) - stephensj@vcu.edu
 
 ## Game Description
 
-Bottega (Italian for "workshop" or "studio") is a fast-paced task management game set in a Renaissance artist's workshop. You are an aspiring artist who must first prove yourself worthy by completing various household and workshop chores with speed and precision. Each day brings new challenges, and your performance determines whether you'll advance to more prestigious duties or remain stuck doing grunt work.
+Bottega (Italian for "workshop" or "studio") is a fast-paced task management game set in a Renaissance artist's workshop. You are an apprentice to this artist. Despite your aspirations, the artist only has you doing menial tasks like cleaning the workshop or providing supplies to other artists. 
+
+It seems the only thing to do is to keep working. Maybe, the respect you earn will lead you places...
 
 ### Unique Gameplay Features
-
-**Fast-Paced Minigame Collection:** Experience a variety of quick, engaging minigames that simulate real apprentice tasks, from organizing supplies to preparing artistic materials.
-
-**Dynamic Progression System:** Your performance directly impacts your career trajectory. Complete tasks efficiently to unlock more advanced responsibilities and move closer to becoming a true artist.
+ 
+**Fast-Paced Minigame Management:** To keep the workshop clean, tasks are constantly given to you. You might find the right brush for one of the artist, collect some paints, scrub some walls, and more. However, the better you do in a given day, the more you will get to do apprenticeship-related tasks.
 
 **Spur-of-the-Moment Decision Making:** React quickly to changing priorities and unexpected demands from your master. Time management is crucial.
 
-**Authentic Renaissance Setting:** Immerse yourself in the world of Renaissance art through a unique 2D ink sketch visual style that brings the era to life.
+**Dynamic Progression System:** Your performance day to day determines the sets of tasks that you  are given the next day. If you keep up with all the artist's supply requests on day one, then on day two, you may be asked to prepare a canvas. The idea is that the more respect you earn from the artists, the more you will get involved in their work.
 
-### What Makes This Game Different?
-
-Unlike traditional time management games, Bottega ties your day-to-day performance directly to long-term career progression. Your apprenticeship can be terminated for poor performance, or you can rise through the ranks to complete your training and become a master artist yourself. The game combines the urgency of mini-game collections with meaningful progression stakes.
 
 ### Goal
 
-Your ultimate goal is to complete your apprenticeship by achieving an advanced win on the highest difficulty of Stage 3 (Painting). Along the way, you must avoid being fired by preventing two consecutive failed days. Prove your worth, climb the ladder from menial tasks to actual artistic work, and earn your place as a Renaissance artist.
+Further your apprenticeship and actually work on paintings.
 
 ## Game Loop
 
@@ -40,23 +37,23 @@ Your ultimate goal is to complete your apprenticeship by achieving an advanced w
 
 ## Progression System
 
-### Three Stages of Mastery
+### Three Stages
 
-**Stage 1 - Handling Supplies, Cleaning, Organizing**
-The grunt work every apprentice must start with. Prove you can maintain a clean, organized workshop.
+**Stage 1**
+Keep the workshop clean by sweeping, cleaning tables, washing brushes, fetching supplies, and more
 
-**Stage 2 - Preparing Canvases, Paints, Brushes**
-Graduate to preparing the actual materials your master uses for their art. Handle delicate supplies with care.
+**Stage 2**
+Get more involved with the artist's work by preparing canvases, creating supplies, and mixing paints.
 
-**Stage 3 - Painting**
-The pinnacle of apprenticeship. You're finally trusted to work on actual artwork under your master's guidance.
+**Stage 3**
+Directly contribute to the artist's work by filling in sections of paintings, making decisions for sections, and adding details.
 
 ### Win/Fail Conditions
 
 **Short-Term Outcomes (Daily):**
-* **Fail:** Tasks not completed before the day ends
-* **Proficient Win:** Tasks completed before day-end with little time to spare
-* **Advanced Win:** Tasks completed with significant time to spare (Advance to next stage)
+* **Fail:** Not enough Tasks completed, or tasks were not completed with enough quality
+* **Proficient Win:** Enough tasks were completed, but may not have reached quality standards
+* **Advanced Win:** Many tasks were completed, and the quality meets/exceeds standards
 
 **Ultimate Outcomes (Career):**
 * **Ultimate Fail:** 2 days in a row failed (Apprenticeship terminated - Game Over)
@@ -69,38 +66,33 @@ The pinnacle of apprenticeship. You're finally trusted to work on actual artwork
 
 ## Visual Style
 
-The game features a unique 2D art style that imitates ink sketches, capturing the aesthetic of Renaissance-era drawings and providing an authentic artistic atmosphere.
+The game is stylized after renaissance ink sketches
 
 ## Target Audience
 
-* Adolescents to young adults
 * Art enthusiasts and students
-* Renaissance history buffs
-* Fans of time management and minigame collections
+* Renaissance history fans
+* Fans of time management and minigames
 
 ## Important Links
 
-* **Game URL:** *[Coming Soon]*
+* **Game URL:**  https://play.unity.com/en/games/95717e68-8925-4f23-8ac2-8f9c29707528/bottega
 * **GitHub Repository:** https://github.com/Shammurai/gamedev-fa2025-final-fa25-Canned-Crab
 * **Unity Cloud Project:** https://cloud.unity.com/home/organizations/2475903349698/projects/13778784-2444-4b4c-a952-b71d00155479
-* **Gameplay Video:** *[Coming Soon]*
-* **Google Doc Writeup:** *[Coming Soon]*
 
 ## Repository Structure
 
 ```
 ./unity/      - Unity game files and project assets
-./website/    - Source files for the game's GitHub Pages site
-./docs/       - Rendered HTML documentation (auto-generated from ./website/ using Quarto)
 ```
 
 ## Development Notes
 
-This project was developed as part of the Fall 2025 GameDev course. The game emphasizes rapid task completion, strategic time management, and meaningful progression through skill-based gameplay.
+This project was developed as part of the Fall 2025 GameDev course. The game emphasizes rapid task completion, time management, and progression through skill-based gameplay.
 
 ### How to Build & Run
 
-*[Add build instructions here]*
+Go to the Game URL to play it on Unity Play (we will add it to itch.io later)
 
 ### Contributing
 
@@ -108,7 +100,3 @@ This is a class project with a fixed team, but we welcome feedback and suggestio
 
 ---
 
-## Resources
-
-
-**Good luck, apprentice! May your brushes be sharp and your canvases pristine.**
