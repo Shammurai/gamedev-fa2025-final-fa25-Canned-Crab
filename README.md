@@ -78,6 +78,7 @@ The game is stylized after renaissance ink sketches
 
 * **Game URL:**  https://play.unity.com/en/games/95717e68-8925-4f23-8ac2-8f9c29707528/bottega
 * **GitHub Repository:** https://github.com/Shammurai/gamedev-fa2025-final-fa25-Canned-Crab
+* **Short Video:** https://drive.google.com/file/d/1GY36K1MNX_ybIgjYDqxqYQvE9TtztHAV/view?usp=drive_link
 * **Unity Cloud Project:** https://cloud.unity.com/home/organizations/2475903349698/projects/13778784-2444-4b4c-a952-b71d00155479
 
 ## Repository Structure
