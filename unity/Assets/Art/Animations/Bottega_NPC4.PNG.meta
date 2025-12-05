@@ -122,12 +122,12 @@ TextureImporter:
       name: Bottega_NPC4_0
       rect:
         serializedVersion: 2
-        x: 52
-        y: 56
-        width: 507
-        height: 899
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 0
+        width: 598
+        height: 994
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -141,37 +141,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bottega_NPC4_1
-      rect:
-        serializedVersion: 2
-        x: 598
-        y: 0
-        width: 17
-        height: 994
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5c53085e47f964b50800000000000000
-      internalID: 6577119630236595653
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Bottega_NPC4_2
       rect:
         serializedVersion: 2
-        x: 651
-        y: 56
-        width: 507
-        height: 899
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 615
+        y: 0
+        width: 582
+        height: 994
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -188,7 +166,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: f3743b651b8870342affe6e825bd8e2f
     internalID: 0
     vertices: []
     indices: 

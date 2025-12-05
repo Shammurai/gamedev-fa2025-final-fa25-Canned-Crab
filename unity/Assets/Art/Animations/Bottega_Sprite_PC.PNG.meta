@@ -117,11 +117,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 1543
-        height: 2043
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 1556
+        width: 485
+        height: 487
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -134,11 +134,253 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Bottega_Sprite_PC_1
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1556
+        width: 507
+        height: 487
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e069fe4077d06c34dac83c6991f884d8
+      internalID: -570418311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottega_Sprite_PC_2
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1555
+        width: 517
+        height: 488
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb74fcee8b3e2f45b432679717cfa88
+      internalID: 847830001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottega_Sprite_PC_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1031
+        width: 485
+        height: 507
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275baccd40a1c674b867082cc78b0a2d
+      internalID: 1903609893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottega_Sprite_PC_4
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1032
+        width: 507
+        height: 505
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f656b314db8cea44c852744099958984
+      internalID: -222554981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottega_Sprite_PC_5
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1031
+        width: 516
+        height: 507
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58777c1013f6fc4fad7ba62d43c80be
+      internalID: -329357956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottega_Sprite_PC_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 484
+        height: 515
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aad9285ed8d9e942bbdd658e6713f22
+      internalID: 680369381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottega_Sprite_PC_7
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 499
+        width: 507
+        height: 516
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc679c6d1be14a24d8b3e805b6956017
+      internalID: 37435140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottega_Sprite_PC_8
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 499
+        width: 517
+        height: 515
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690b874a2b922964694cff8a3360b7f5
+      internalID: 1481608849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottega_Sprite_PC_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 485
+        height: 480
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac9c70733d26e14d80e54d18c92dcd2
+      internalID: 2087842089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottega_Sprite_PC_10
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 3
+        width: 508
+        height: 480
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84706b5cb7a9fe84a84ebb9fbb40ad4a
+      internalID: 1795700898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottega_Sprite_PC_11
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 3
+        width: 517
+        height: 481
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a4b07d47d36744e80e5a477c961fe1
+      internalID: -1600208478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: c44ee99e039b0f3468dbe8e53449cc61
     internalID: 0
     vertices: []
     indices: 
@@ -149,6 +391,17 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Bottega_Sprite_PC_0: -4317899611536833512
+      Bottega_Sprite_PC_1: -570418311
+      Bottega_Sprite_PC_10: 1795700898
+      Bottega_Sprite_PC_11: -1600208478
+      Bottega_Sprite_PC_2: 847830001
+      Bottega_Sprite_PC_3: 1903609893
+      Bottega_Sprite_PC_4: -222554981
+      Bottega_Sprite_PC_5: -329357956
+      Bottega_Sprite_PC_6: 680369381
+      Bottega_Sprite_PC_7: 37435140
+      Bottega_Sprite_PC_8: 1481608849
+      Bottega_Sprite_PC_9: 2087842089
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -141,9 +141,9 @@ TextureImporter:
       name: Bottega_NPC1_1
       rect:
         serializedVersion: 2
-        x: 74
+        x: 43
         y: 49
-        width: 598
+        width: 629
         height: 806
       alignment: 7
       pivot: {x: 0.5, y: 0}

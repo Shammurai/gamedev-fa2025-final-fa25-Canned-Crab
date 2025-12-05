@@ -122,12 +122,12 @@ TextureImporter:
       name: Bottega_NPC3_0
       rect:
         serializedVersion: 2
-        x: 27
-        y: 19
-        width: 636
-        height: 1137
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 11
+        y: 0
+        width: 684
+        height: 1177
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -141,38 +141,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bottega_NPC3_1
-      rect:
-        serializedVersion: 2
-        x: 697
-        y: 0
-        width: 13
-        height: 1177
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1bbb030e6584c2a20800000000000000
-      internalID: 3038883386533919665
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Bottega_NPC3_2
       rect:
         serializedVersion: 2
-        x: 725
-        y: 19
-        width: 621
-        height: 1137
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+        x: 710
+        y: 0
+        width: 686
+        height: 1177
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 1, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -188,7 +166,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: e3d9470ec9039684da72de36da28e5ea
     internalID: 0
     vertices: []
     indices: 
